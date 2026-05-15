@@ -1,6 +1,8 @@
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
+# Day 7 学習済み: 関数の定義・引数・戻り値・複数返却値
+
 # ── 基本の関数（引数あり・戻り値あり） ──
 def calc_tax(price):
     """税込み価格を計算して返す"""
